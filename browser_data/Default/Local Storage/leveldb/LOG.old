@@ -1,0 +1,34 @@
+2026/03/10-21:05:15.356 6384 Reusing MANIFEST E:\Data_get\pythonProject1\browser_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/10-21:05:15.359 6384 Recovering log #139
+2026/03/10-21:05:15.360 6384 Level-0 table #143: started
+2026/03/10-21:05:15.363 6384 Level-0 table #143: 84118 bytes OK
+2026/03/10-21:05:15.365 6384 Delete type=0 #139
+2026/03/10-21:06:15.385 6390 Level-0 table #146: started
+2026/03/10-21:06:15.388 6390 Level-0 table #146: 128976 bytes OK
+2026/03/10-21:06:15.388 6390 Delete type=0 #144
+2026/03/10-21:06:36.408 6390 Level-0 table #148: started
+2026/03/10-21:06:36.411 6390 Level-0 table #148: 87236 bytes OK
+2026/03/10-21:06:36.412 6390 Delete type=0 #145
+2026/03/10-21:10:04.936 6390 Level-0 table #150: started
+2026/03/10-21:10:04.939 6390 Level-0 table #150: 86713 bytes OK
+2026/03/10-21:10:04.940 6390 Delete type=0 #147
+2026/03/10-21:10:04.940 6390 Compacting 4@0 + 1@1 files
+2026/03/10-21:10:04.945 6390 Generated table #151@0: 126 keys, 367329 bytes
+2026/03/10-21:10:04.945 6390 Compacted 4@0 + 1@1 files => 367329 bytes
+2026/03/10-21:10:04.946 6390 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/10-21:10:04.946 6390 Delete type=2 #141
+2026/03/10-21:10:04.946 6390 Delete type=2 #143
+2026/03/10-21:10:04.946 6390 Delete type=2 #146
+2026/03/10-21:10:04.946 6390 Delete type=2 #148
+2026/03/10-21:10:04.946 6390 Delete type=2 #150
+2026/03/10-21:11:26.991 6390 Level-0 table #153: started
+2026/03/10-21:11:26.993 6390 Level-0 table #153: 86467 bytes OK
+2026/03/10-21:11:26.994 6390 Delete type=0 #149
+2026/03/10-21:12:58.655 6390 Level-0 table #155: started
+2026/03/10-21:12:58.658 6390 Level-0 table #155: 86761 bytes OK
+2026/03/10-21:12:58.658 6390 Delete type=0 #152
+2026/03/10-21:14:32.292 6390 Level-0 table #157: started
+2026/03/10-21:14:32.295 6390 Level-0 table #157: 130033 bytes OK
+2026/03/10-21:14:32.296 6390 Delete type=0 #154
+2026/03/10-21:14:32.309 6384 Level-0 table #159: started
+2026/03/10-21:14:32.312 6384 Level-0 table #159: 85396 bytes OK

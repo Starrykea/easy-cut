@@ -1,0 +1,40 @@
+2026/03/10-21:52:42.974 6aec Reusing MANIFEST E:\Data_get\pythonProject1\browser_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/10-21:52:42.978 6aec Recovering log #156
+2026/03/10-21:52:42.978 6aec Level-0 table #159: started
+2026/03/10-21:52:42.983 6aec Level-0 table #159: 85396 bytes OK
+2026/03/10-21:52:42.984 6aec Recovering log #158
+2026/03/10-21:52:42.985 6aec Reusing old log E:\Data_get\pythonProject1\browser_data\Default\Local Storage\leveldb/000158.log 
+2026/03/10-21:52:42.987 6aec Delete type=0 #156
+2026/03/10-21:52:42.988 5c60 Compacting 4@0 + 1@1 files
+2026/03/10-21:52:42.996 5c60 Generated table #160@0: 126 keys, 367691 bytes
+2026/03/10-21:52:42.997 5c60 Compacted 4@0 + 1@1 files => 367691 bytes
+2026/03/10-21:52:42.998 5c60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/10-21:52:42.999 5c60 Delete type=2 #151
+2026/03/10-21:52:42.999 5c60 Delete type=2 #153
+2026/03/10-21:52:42.999 5c60 Delete type=2 #155
+2026/03/10-21:52:42.999 5c60 Delete type=2 #157
+2026/03/10-21:52:42.999 5c60 Delete type=2 #159
+2026/03/10-21:53:43.005 5c60 Level-0 table #162: started
+2026/03/10-21:53:43.009 5c60 Level-0 table #162: 129255 bytes OK
+2026/03/10-21:53:43.011 5c60 Delete type=0 #158
+2026/03/10-21:56:10.466 5c60 Level-0 table #164: started
+2026/03/10-21:56:10.469 5c60 Level-0 table #164: 86506 bytes OK
+2026/03/10-21:56:10.471 5c60 Delete type=0 #161
+2026/03/10-21:57:32.541 5c60 Level-0 table #166: started
+2026/03/10-21:57:32.545 5c60 Level-0 table #166: 86640 bytes OK
+2026/03/10-21:57:32.547 5c60 Delete type=0 #163
+2026/03/10-21:59:36.660 5c60 Level-0 table #168: started
+2026/03/10-21:59:36.664 5c60 Level-0 table #168: 130136 bytes OK
+2026/03/10-21:59:36.667 5c60 Delete type=0 #165
+2026/03/10-21:59:36.667 5c60 Compacting 4@0 + 1@1 files
+2026/03/10-21:59:36.674 5c60 Generated table #169@0: 126 keys, 411228 bytes
+2026/03/10-21:59:36.674 5c60 Compacted 4@0 + 1@1 files => 411228 bytes
+2026/03/10-21:59:36.676 5c60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/10-21:59:36.676 5c60 Delete type=2 #160
+2026/03/10-21:59:36.676 5c60 Delete type=2 #162
+2026/03/10-21:59:36.677 5c60 Delete type=2 #164
+2026/03/10-21:59:36.677 5c60 Delete type=2 #166
+2026/03/10-21:59:36.677 5c60 Delete type=2 #168
+2026/03/10-22:00:58.103 5c60 Level-0 table #171: started
+2026/03/10-22:00:58.105 5c60 Level-0 table #171: 84533 bytes OK
+2026/03/10-22:00:58.106 5c60 Delete type=0 #167
